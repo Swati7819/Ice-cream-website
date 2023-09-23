@@ -9,7 +9,7 @@ Welcome to the "MyIceCream" website! This is a simple web application that celeb
 - [Contributing](#contributing)
 - [License](#license)
 
-## Overview
+## Overview 
 
 The "MyIceCream" website is a fun and visually appealing platform dedicated to the world of ice cream. It provides information about different ice cream flavors and allows users to explore more about their favorite flavors through external links.
 
